@@ -1,3 +1,8 @@
+---
+layout:post
+---
+
+
 # MNNIT
 
 ## DC Hublist 2017 
